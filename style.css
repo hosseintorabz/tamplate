@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background: blueviolet;
+    height: 100vh;
+    margin: 0;
+}
